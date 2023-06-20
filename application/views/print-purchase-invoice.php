@@ -23,7 +23,7 @@ body{
 </style>
 </head>
 <body onload="window.print();"><!--  -->
-  
+   z
 <?php
 
     $q1=$this->db->query("select * from db_company where id=1 and status=1");
